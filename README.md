@@ -56,13 +56,13 @@ O objetivo principal foi consolidar conhecimentos em estruturas de dados, contro
 
 ## ▶️ **Como Executar**
 
-**1.** Clone ou faça o download do repositório
+**1.** Faça o download do repositório
 
 **2.** Certifique-se de ter o Python instalado
 
 **3.** Execute o arquivo:
 
-  **`trunfo.exe`**
+   **`trunfo.exe`**
 
 ---
 
